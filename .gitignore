@@ -20,3 +20,9 @@ sites/simpletest
 .DS_Store/*
 
 tests/_output/*
+
+# Ionic - Angular Js Application
+ionic-app/node_modules/
+ionic-app/platforms/
+ionic-app/plugins/
+ionic-app/www/lib
